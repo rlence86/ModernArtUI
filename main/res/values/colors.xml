@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="a_1">#FFff3d7f</color>
+    <color name="a_2">#FF4C6A8D</color>
+    <color name="b_1">#FF3FB8AF</color>
+    <color name="b_2">#FFF8555E</color>
+    <color name="c_1">#FFFF9E9D</color>
+    <color name="c_2">#FF0C9DA9</color>
+    <color name="d_1">#FF7FC7AF</color>
+    <color name="d_2">#FFFBC38D</color>
+    <color name="e_1">#FFDAD8A7</color>
+    <color name="e_2">#FFF14440</color>
+</resources>

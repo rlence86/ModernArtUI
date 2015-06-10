@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Modern Art UI</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_more_information">More information</string>
+    <string name="action_settings">Settings</string>
+</resources>
